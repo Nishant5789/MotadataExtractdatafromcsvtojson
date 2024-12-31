@@ -1,0 +1,4 @@
+Rule configuration,Rule Check in,good,conditions,result.pattern,occurence,operator,
+basic,Config File,3423,contain,Qa,-1,NONE
+advanced,Config File,3423,match,Prod,2,AND
+critical,Database Query,3240,contain,Test,3,OR
